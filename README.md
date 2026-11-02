@@ -1,4 +1,3 @@
-# Introduction-
 Hi, I'm Sravani 👋
 
 Cloud & DevOps Engineer · SRE · Kubernetes · St. Louis, MO · Open to remote
